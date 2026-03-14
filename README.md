@@ -1,220 +1,203 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0B1020,45:0E7490,100:58A6FF&text=NERVI0Z&fontSize=66&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20-%20Vulnerability%20Management%20-%20Detection%20-%20Remediation&descAlignY=60&descSize=18" alt="Nervi0z header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:050816,35:0B1220,70:7C3AED,100:06B6D4&text=Nervi0z&fontSize=62&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38" alt="banner"/>
+</p>
+
+
+<p align="center">
+  <strong>Vulnerability Management · Blue Team · Detection · Remediation</strong>
 </p>
 
 <p align="center">
-  <strong>Vulnerability Analyst @ Wise Security</strong><br>
-  Madrid, Spain · Defender-first · Attacker-aware
+  Security Analyst @ <strong>VAR Group</strong> · Madrid, Spain
+</p>
+
+<p align="center">
+  CVEs, spreadsheets, scans, remediation follow-up, and the occasional fight with false confidence.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jmam84/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com/p/Nervi0z">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+    <img src="https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://app.letsdefend.io/user/nervi0zz0">
-    <img src="https://img.shields.io/badge/LetsDefend-0EA5E9?style=for-the-badge&logoColor=white" alt="LetsDefend"/>
-  </a>
-  <a href="https://www.securityblue.team/">
-    <img src="https://img.shields.io/badge/BTL1-Gold-F6C344?style=for-the-badge&logoColor=black" alt="BTL1 Gold"/>
+    <img src="https://img.shields.io/badge/letsdefend-0EA5E9?style=for-the-badge&logoColor=white" alt="LetsDefend" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Exposure%20Validation-0B1020?style=flat-square&labelColor=111827&color=58A6FF" alt="Exposure Validation"/>
-  <img src="https://img.shields.io/badge/Threat%20Detection-0B1020?style=flat-square&labelColor=111827&color=0EA5E9" alt="Threat Detection"/>
-  <img src="https://img.shields.io/badge/Remediation-0B1020?style=flat-square&labelColor=111827&color=22C55E" alt="Remediation"/>
-  <img src="https://img.shields.io/badge/Blue%20Team%20Tooling-0B1020?style=flat-square&labelColor=111827&color=8B5CF6" alt="Blue Team Tooling"/>
+  <img src="https://img.shields.io/badge/SAL1-Certified-111827?style=flat-square&labelColor=050816&color=22c55e" alt="SAL1" />
+  <img src="https://img.shields.io/badge/BTL1-Gold-111827?style=flat-square&labelColor=050816&color=eab308" alt="BTL1 Gold" />
+  <img src="https://img.shields.io/badge/CVEs-Spreadsheets-111827?style=flat-square&labelColor=050816&color=7C3AED" alt="CVEs and Spreadsheets" />
+  <img src="https://img.shields.io/badge/Patch-Triage-111827?style=flat-square&labelColor=050816&color=06B6D4" alt="Patch Triage" />
+  <img src="https://img.shields.io/badge/Signal-Over%20Noise-111827?style=flat-square&labelColor=050816&color=58A6FF" alt="Signal over noise" />
 </p>
 
 ---
 
-## `// operator surface`
+## `/whoami`
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Vector</h3>
-      <p>
-        Focused on vulnerability analysis, exposure validation, remediation follow-up, and reducing attack surface with practical, operator-oriented thinking.
-      </p>
+      <strong>day_job</strong><br><br>
+      Vulnerability analysis, exposure validation, remediation tracking, prioritization, reporting, and trying to turn scanner output into something useful.
     </td>
     <td width="33%" valign="top">
-      <h3>Background</h3>
-      <p>
-        SOC Analyst (2022–2025) → Vulnerability Analyst (2026–now). Detection, triage, incident response, then risk, prioritization, and remediation.
-      </p>
+      <strong>background</strong><br><br>
+      SOC roots: detection, triage, phishing analysis, incident flow, investigation discipline, and blue-team thinking.
     </td>
     <td width="33%" valign="top">
-      <h3>Build Mode</h3>
-      <p>
-        I build study guides, lightweight tooling, and blue-team resources designed to be useful in real operational workflows.
-      </p>
+      <strong>energy</strong><br><br>
+      More practice than posture. More signal than noise. More “does this really affect us?” than buzzwords.
     </td>
   </tr>
 </table>
 
 ---
 
-## `// training telemetry`
+## `/lab_signal`
 
 <table>
   <tr>
-    <td width="55%" align="center" valign="middle">
+    <td width="52%" align="center" valign="middle">
       <a href="https://tryhackme.com/p/Nervi0z">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Nervi0Zz.png" alt="TryHackMe badge"/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Nervi0Zz.png" alt="TryHackMe Badge" />
       </a>
     </td>
-    <td width="45%" valign="top">
-      <h3>Practice Signal</h3>
-      <p>
-        Public training platforms matter here because they show repetition, curiosity, and hands-on defensive practice — not just static credentials.
-      </p>
-      <p>
-        <strong>TryHackMe</strong><br>
-        Labs, paths, and continuous skill sharpening.
-      </p>
-      <p>
-        <strong>LetsDefend</strong><br>
-        SOC-style scenarios, alert analysis, and defensive workflow repetition.
-      </p>
-      <p>
-        <a href="https://tryhackme.com/p/Nervi0z">Open TryHackMe</a> ·
-        <a href="https://app.letsdefend.io/user/nervi0zz0">Open LetsDefend</a>
-      </p>
+    <td width="48%" valign="top">
+      <strong>practice_feed</strong><br><br>
+      I like public proof of practice.<br><br>
+      <strong>TryHackMe</strong><br>
+      Labs, paths, repetition, habit.<br><br>
+      <strong>LetsDefend</strong><br>
+      SOC-style alerts, investigation flow, analyst repetition.<br><br>
+      <a href="https://tryhackme.com/p/Nervi0z">open_tryhackme</a><br>
+      <a href="https://app.letsdefend.io/user/nervi0zz0">open_letsdefend</a>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Validated Signal</h3>
-      <p>
-        <strong>BTL1 — Gold Coin</strong><br>
-        Defensive discipline, investigation mindset, and proof of practical training.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Current Direction</h3>
-      <p>
-        Prioritizing vulnerability management, exposure reduction, remediation tracking, and building cleaner operator-facing resources.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/SAL1-CERTIFIED-111827?style=for-the-badge&labelColor=050816&color=22c55e" alt="SAL1" />
+  <img src="https://img.shields.io/badge/BTL1-GOLD-111827?style=for-the-badge&labelColor=050816&color=eab308" alt="BTL1 Gold" />
+  <img src="https://img.shields.io/badge/LABS-AND%20REAL%20PRACTICE-111827?style=for-the-badge&labelColor=050816&color=7C3AED" alt="Labs and Real Practice" />
+</p>
 
 ---
 
-## `// deployed assets`
+## `/things_i_use_a_lot`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tenable-050816?style=for-the-badge&color=A855F7" alt="Tenable" />
+  <img src="https://img.shields.io/badge/Rapid7-050816?style=for-the-badge&color=EF4444" alt="Rapid7" />
+  <img src="https://img.shields.io/badge/Excel-050816?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=16A34A" alt="Excel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-050816?style=for-the-badge&logo=microsoft&logoColor=white&color=2563EB" alt="Microsoft Sentinel" />
+  <img src="https://img.shields.io/badge/Chronicle_SOAR-050816?style=for-the-badge&color=2563EB" alt="Chronicle SOAR" />
+  <img src="https://img.shields.io/badge/AlienVault-050816?style=for-the-badge&color=2563EB" alt="AlienVault" />
+  <img src="https://img.shields.io/badge/Devo-050816?style=for-the-badge&color=2563EB" alt="Devo" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Defender_XDR-050816?style=for-the-badge&logo=microsoft&logoColor=white&color=0EA5E9" alt="Defender XDR" />
+  <img src="https://img.shields.io/badge/Bitdefender-050816?style=for-the-badge&color=0EA5E9" alt="Bitdefender" />
+  <img src="https://img.shields.io/badge/Azure_Security-050816?style=for-the-badge&logo=microsoftazure&logoColor=white&color=06B6D4" alt="Azure Security" />
+  <img src="https://img.shields.io/badge/Defender_for_Cloud-050816?style=for-the-badge&logo=microsoft&logoColor=white&color=06B6D4" alt="Defender for Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Palo_Alto-050816?style=for-the-badge&color=8B5CF6" alt="Palo Alto" />
+  <img src="https://img.shields.io/badge/Fortinet-050816?style=for-the-badge&color=8B5CF6" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/Cisco_IOS_/_ASA-050816?style=for-the-badge&color=8B5CF6" alt="Cisco IOS ASA" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proofpoint-050816?style=for-the-badge&color=22C55E" alt="Proofpoint" />
+  <img src="https://img.shields.io/badge/KnowBe4-050816?style=for-the-badge&color=22C55E" alt="KnowBe4" />
+  <img src="https://img.shields.io/badge/Abnormal_Security-050816?style=for-the-badge&color=22C55E" alt="Abnormal Security" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-050816?style=for-the-badge&logo=powershell&logoColor=white&color=EAB308" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=white&color=EAB308" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-050816?style=for-the-badge&logo=gnubash&logoColor=white&color=EAB308" alt="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,azure,linux,github,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
+---
+
+## `/selected_work`
 
 <p align="center">
   <a href="https://github.com/Nervi0z/BTL1-Study-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Study-Guide&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="BTL1 Study Guide"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Study-Guide&theme=transparent&hide_border=true&title_color=7C3AED&text_color=C9D1D9&icon_color=06B6D4" alt="BTL1 Study Guide" />
   </a>
   <a href="https://github.com/Nervi0z/ScanBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=ScanBot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="ScanBot"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=ScanBot&theme=transparent&hide_border=true&title_color=7C3AED&text_color=C9D1D9&icon_color=06B6D4" alt="ScanBot" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Nervi0z/Odisea-Analista-SOC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=Odisea-Analista-SOC&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Odisea Analista SOC"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=Odisea-Analista-SOC&theme=transparent&hide_border=true&title_color=7C3AED&text_color=C9D1D9&icon_color=06B6D4" alt="Odisea Analista SOC" />
   </a>
   <a href="https://github.com/Nervi0z/BTL1-Estudio-Guide-ESP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Estudio-Guide-ESP&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="BTL1 Estudio Guide ESP"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Estudio-Guide-ESP&theme=transparent&hide_border=true&title_color=7C3AED&text_color=C9D1D9&icon_color=06B6D4" alt="BTL1 Estudio Guide ESP" />
   </a>
 </p>
 
 ---
 
-## `// operational stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,azure,linux,github,vscode&theme=dark" alt="Skill icons"/>
-</p>
-
-<table>
-  <tr>
-    <td width="22%" valign="top"><strong>SIEM / SOAR</strong></td>
-    <td>Microsoft Sentinel · Chronicle SOAR · AlienVault · Devo</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>EDR / XDR</strong></td>
-    <td>Microsoft Defender XDR · Bitdefender</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Cloud</strong></td>
-    <td>Azure Security · Defender for Cloud</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Network</strong></td>
-    <td>Palo Alto · Fortinet · Cisco IOS / ASA</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Phishing</strong></td>
-    <td>Proofpoint · KnowBe4 · Abnormal Security</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Scripting</strong></td>
-    <td>PowerShell · Python · Bash</td>
-  </tr>
-</table>
-
----
-
-## `// signal layer`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nervi0z&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=Nervi0z&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" width="48%" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nervi0z&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&custom_title=Operational%20Signal" width="100%" alt="GitHub activity graph"/>
-</p>
-
----
+## `/cert_stash`
 
 <details>
-  <summary><strong>// validated training</strong></summary>
+  <summary><strong>expand_verified_training</strong></summary>
   <br>
 
-- BTL1 — Gold Coin  
-- FortiGate 7.4 Operator  
-- CyberOps Associate  
-- SC-900  
-- AZ-900  
-- Digital Forensics Essentials  
-- Understanding Threats & Attacks  
-- Introduction to CIP  
-- Network Security Fundamentals  
-- Ransomware — CCN-CERT  
+<p align="center">
+  <img src="https://img.shields.io/badge/SAL1-CERTIFIED-111827?style=for-the-badge&labelColor=050816&color=22c55e" alt="SAL1" />
+  <img src="https://img.shields.io/badge/BTL1-GOLD-111827?style=for-the-badge&labelColor=050816&color=eab308" alt="BTL1 Gold" />
+  <img src="https://img.shields.io/badge/CyberOps-111827?style=for-the-badge&labelColor=050816&color=58A6FF" alt="CyberOps" />
+  <img src="https://img.shields.io/badge/SC--900-111827?style=for-the-badge&labelColor=050816&color=58A6FF" alt="SC-900" />
+  <img src="https://img.shields.io/badge/AZ--900-111827?style=for-the-badge&labelColor=050816&color=58A6FF" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/FortiGate_7.4-111827?style=for-the-badge&labelColor=050816&color=8B5CF6" alt="FortiGate 7.4" />
+  <img src="https://img.shields.io/badge/Digital_Forensics_Essentials-111827?style=for-the-badge&labelColor=050816&color=0EA5E9" alt="Digital Forensics Essentials" />
+  <img src="https://img.shields.io/badge/Understanding_Threats_&_Attacks-111827?style=for-the-badge&labelColor=050816&color=0EA5E9" alt="Understanding Threats and Attacks" />
+  <img src="https://img.shields.io/badge/Introduction_to_CIP-111827?style=for-the-badge&labelColor=050816&color=0EA5E9" alt="Introduction to CIP" />
+  <img src="https://img.shields.io/badge/Network_Security_Fundamentals-111827?style=for-the-badge&labelColor=050816&color=0EA5E9" alt="Network Security Fundamentals" />
+  <img src="https://img.shields.io/badge/Ransomware_CCN--CERT-111827?style=for-the-badge&labelColor=050816&color=EF4444" alt="Ransomware CCN-CERT" />
+</p>
 
 </details>
 
 ---
 
-## `// contact vector`
+## `/ping`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jmam84/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com/p/Nervi0z">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+    <img src="https://img.shields.io/badge/tryhackme-profile-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://app.letsdefend.io/user/nervi0zz0">
-    <img src="https://img.shields.io/badge/LetsDefend-Profile-0EA5E9?style=flat-square&logoColor=white" alt="LetsDefend"/>
+    <img src="https://img.shields.io/badge/letsdefend-profile-0EA5E9?style=flat-square&logoColor=white" alt="LetsDefend" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Always learning. Never static.</sub>
+  <sub>find it // prove it // chase the fix</sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1020,45:0E7490,100:58A6FF" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:050816,35:0B1220,70:7C3AED,100:06B6D4" alt="footer"/>
 </p>
