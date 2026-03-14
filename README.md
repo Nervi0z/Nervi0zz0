@@ -1,145 +1,204 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nervi0Zz&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=Vulnerability%20Analyst%20%C2%B7%20Blue%20Teamer%20%C2%B7%20Madrid&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" width="100%"/>
 
-  <h1>¡Hola! 👋 Soy Nervi0zz0</h1>
+</div>
 
-  <p>
-    <strong>Analista de Ciberseguridad | Blue Teamer | Defensor Digital</strong><br>
-    <em>Trabajo en CSOC como nivel 1,  resido en Madrid, España</em> 🇪🇸<br>
-    🛡️ Apasionado por fortalecer la postura de seguridad y proteger activos digitales. 🛡️
-  </p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  nervi0zz@csoc:~$ ./identify.sh                                 │
+│                                                                  │
+│  > Role    : Vulnerability Analyst @ Wise Security              │
+│  > Stack   : SIEM · EDR · XDR · Threat Intel · Vuln Mgmt       │
+│  > Base    : Madrid, España 🇪🇸                                  │
+│  > Status  : [ █████████████████████░░░ ] always learning       │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-  <p>
-    <a href="https://www.linkedin.com/in/jmam84/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </p>
+<div align="center">
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Nervi0zz0&label=Visitas%20al%20Perfil&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
-  </p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmam84/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nervi0Zz)
+[![LetsDefend](https://img.shields.io/badge/-LetsDefend-00a8e8?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/user/nervi0zz0)
+[![BTL1 Gold](https://img.shields.io/badge/-BTL1%20Gold%20🥇-ffd700?style=for-the-badge)](https://www.securityblue.team/)
+[![Profile views](https://komarev.com/ghpvc/?username=Nervi0Zz&style=for-the-badge&color=00d4ff&label=VISITORS)](https://github.com/Nervi0Zz)
+
+</div>
+
+---
+
+## `> about_me.txt`
+
+```python
+class Nervi0Zz:
+    role     = "Vulnerability Analyst"
+    company  = "Wise Security — Madrid"
+    timeline = {
+        "2022–2025": "SOC Analyst · Detection & Response",
+        "2026–now" : "Vuln Analyst · Risk & Remediation"
+    }
+    focus    = ["Vuln Management", "Threat Hunting", "SIEM", "EDR/XDR"]
+    mindset  = "Defender-first. Attacker-aware. Always hunting."
+    fun_fact = "Construyo herramientas que uso en el trabajo."
+```
+
+---
+
+## `> stack --active`
+
+<div align="center">
+
+| SIEM & SOAR | EDR / XDR | Cloud | Redes |
+|:-----------:|:---------:|:-----:|:-----:|
+| ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078d4?style=flat-square&logo=microsoftazure&logoColor=white) ![Chronicle](https://img.shields.io/badge/Chronicle_SOAR-4285f4?style=flat-square&logo=google&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00a3cc?style=flat-square) ![Devo](https://img.shields.io/badge/Devo-00b2a9?style=flat-square) | ![Defender](https://img.shields.io/badge/Defender_XDR-0078d4?style=flat-square&logo=microsoft&logoColor=white) ![Bitdefender](https://img.shields.io/badge/Bitdefender-ed1c24?style=flat-square&logo=bitdefender&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure_Security-0078d4?style=flat-square&logo=microsoftazure&logoColor=white) | ![PaloAlto](https://img.shields.io/badge/Palo_Alto-ff6c00?style=flat-square) ![Fortinet](https://img.shields.io/badge/Fortinet-dc143c?style=flat-square&logo=fortinet&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1ba0d7?style=flat-square&logo=cisco&logoColor=white) |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/Nervi0zz0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nervi0zz0&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" alt="Estadísticas de GitHub de Nervi0zz0" width="48%"/>
-  </a>
-  <a href="https://github.com/Nervi0zz0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nervi0zz0&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" alt="Lenguajes más usados por Nervi0zz0" width="48%"/>
-  </a>
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows_Server-0078d4?style=flat-square&logo=windows&logoColor=white)
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí
+## `> projects --pinned`
 
-Como **Analista de Ciberseguridad Nivel 1** en un **CSOC**, mi día a día se centra en la **detección temprana**, el **análisis preciso** y la **respuesta eficaz** a incidentes de seguridad. Me especializo en correlacionar eventos de múltiples fuentes (SIEM, EDR, Logs) para identificar amenazas reales y neutralizarlas antes de que impacten en el negocio. Disfruto colaborando con diferentes equipos para fortalecer la seguridad global y automatizar procesos de defensa.
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔬 [BTL1 Study Guide](https://github.com/Nervi0Zz/BTL1-Study-Guide)
+![Stars](https://img.shields.io/github/stars/Nervi0Zz/BTL1-Study-Guide?style=flat-square&color=ffd700)
+![Forks](https://img.shields.io/github/forks/Nervi0Zz/BTL1-Study-Guide?style=flat-square&color=00d4ff)
 
-### 🚀 Mis Proyectos Destacados
+El recurso **más completo en GitHub** para preparar la BTL1. Notas reales, cheatsheets, estrategia de examen. Más de 96 ⭐.
 
+</td>
+<td width="50%">
 
+### 🤖 [ScanBot](https://github.com/Nervi0Zz/ScanBot)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2ca5e0?style=flat-square&logo=telegram&logoColor=white)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://nervi0zz0.github.io/" target="_blank">Blog: Diario de un Cojo</a></h3>
-      <p>El blog que nadie pidió, pero quizás necesites. Un espacio personal sobre ciberseguridad, reflexiones y experiencias.</p>
-      <p>
-          <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-          <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="Jekyll"/> </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Nervi0zz0/ScanBot" target="_blank">ScanBot: Bot OSINT para Telegram</a></h3>
-      <p>Bot de Telegram (@MiOsintInfoBot) para análisis OSINT y de seguridad de URLs, Dominios e IPs usando APIs (VirusTotal, Shodan, AbuseIPDB, etc.).</p>
-       <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-          <img src="https://img.shields.io/badge/API-Rest-brightgreen?style=for-the-badge" alt="API Rest"/>
-      </p>
-    </td>
-  </tr>
-  </table>
+Bot de Telegram para OSINT en tiempo real: IPs, dominios, URLs. Integra VirusTotal, Shodan y AbuseIPDB.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🛠️ Habilidades Técnicas Clave
+### 🗺️ [Odisea Analista SOC](https://github.com/Nervi0Zz/Odisea-Analista-SOC)
 
-* **SIEM & SOAR:** ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Chronicle SOAR](https://img.shields.io/badge/Chronicle%20SOAR-4285F4?style=flat-square&logo=google&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00A3CC?style=flat-square) ![Devo](https://img.shields.io/badge/Devo-00B2A9?style=flat-square)
-* **EDR / XDR:** ![Microsoft Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=flat-square&logo=bitdefender&logoColor=white)
-* **Cloud Security (Azure):** ![Microsoft Azure](https://img.shields.io/badge/Azure%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-* **Phishing Analysis:** ![Proofpoint](https://img.shields.io/badge/Proofpoint-0076C0?style=flat-square) ![KnowBe4](https://img.shields.io/badge/KnowBe4-FF8200?style=flat-square) *(+ Abnormal Security)*
-* **Networking & Firewalls:** ![Cisco](https://img.shields.io/badge/Cisco%20IOS/ASA-1199D2?style=flat-square&logo=cisco&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-FF4500?style=flat-square) ![Fortinet](https://img.shields.io/badge/Fortinet-DC143C?style=flat-square&logo=fortinet&logoColor=white)
-* **Forensics & IR:** ![EC-Council](https://img.shields.io/badge/Forensics%20Essentials-000000?style=flat-square) ![Jira](https://img.shields.io/badge/Jira%20(Incident%20Tracking)-0052CC?style=flat-square&logo=jira&logoColor=white)
-* **OS & Scripting:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-* **Virtualization:** ![VMware](https://img.shields.io/badge/VMware-666666?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+Guía de iniciación para futuros analistas SOC: roadmap, labs, recursos y estrategia. Escrita desde dentro.
+
+</td>
+<td width="50%">
+
+### 📖 [BTL1 Guía ESP](https://github.com/Nervi0Zz/BTL1-Estudio-Guide-ESP)
+
+Versión en castellano de la guía BTL1. Cheatsheets y materiales de estudio para los que piensan en español.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Experiencia Profesional
-
-**Analista de Ciberseguridad - SOC | Nivel 1** @ Wise Security *(Madrid, España)*
-*(Dic. 2022 – Presente)*
-
-* Monitorización y análisis de eventos (SIEM, Sondas, EDR). Validación de incidentes.
-* Gestión de IOCs (Investigación, clasificación, bloqueo). Threat Hunting proactivo.
-* Colaboración en respuesta a incidentes y coordinación interdepartamental.
-* Documentación técnica, reporting y creación/mejora de SOPs.
-* Gestión de tickets (Jira) y seguimiento de casos.
-* Comunicación de vulnerabilidades relevantes (CVEs).
-
----
-
-### 📜 Certificaciones Destacadas
-
-| Certificación                                            | Emisor                  | Año  |
-| :------------------------------------------------------- | :---------------------- | :--- |
-| **Blue Team Level 1 (BTL1) (Gold Coin)** | Security Blue Team      | 2024 |
-| **FortiGate 7.4 Operator** | Fortinet                | 2024 |
-| Security, Compliance, and Identity Fundamentals (SC-900) | Microsoft               | 2022 |
-| CyberOps Associate                                       | Cisco                   | 2023 |
-| Azure Fundamentals (AZ-900)                              | Microsoft               | 2022 |
-| Introduction to CIP                                      | OPSWAT Academy          | 2024 |
-| Digital Forensics Essentials                             | EC-Council              | 2023 |
-| Ransomware                                               | CCN-CERT                | 2023 |
-| Understanding Threats and Attacks                        | Splunk                  | 2024 |
-| Fundamentals of Network Security                         | Palo Alto Networks      | 2022 |
-| Networking Essentials                                    | Cisco                   | 2022 |
-
-
-
----
-
-### 🎓 Formación Complementaria
-
-<details>
-<summary>Ver Formación Complementaria (Haz clic para expandir)</summary>
-
-| Curso                                           | Institución                          | Año  |
-| :---------------------------------------------- | :----------------------------------- | :--- |
-| Programa IMPACT\_include en Ciberseguridad      | Fundación GoodJob / RootedCON        | 2022 |
-| Security Essentials                             | Fundación ONCE / Inserta Empleo      | 2022 |
-| Administración de Sistemas Cloud                | Fundación ONCE / Inserta             | 2022 |
-| IFCT049PO Experto en Virtualización (VMware/MS) | CEINPRO                            | 2024 |
-| IFCT119PO Virtualización y Cloud Computing (VMware)| Formación Continua                   | 2024 |
-
-</details>
-
----
-
-### 📰 Mis Últimos Posts / Writeups (Contenido Dinámico)
-
----
-
-### 📫 Contacto
+## `> certs --verified`
 
 <div align="center">
-<p>¡Conectemos! Siempre estoy abierto a discutir sobre ciberseguridad, nuevas tecnologías o posibles colaboraciones.</p>
 
-<p>
-    <a href="https://www.linkedin.com/in/jmam84/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  CERTIFICATION                        ISSUER          YEAR  ║
+╠══════════════════════════════════════════════════════════════╣
+║  ★ BTL1 — Gold Coin                  Security Blue    2024  ║
+║  ★ FortiGate 7.4 Operator            Fortinet         2024  ║
+║    CyberOps Associate                Cisco            2023  ║
+║    SC-900                            Microsoft        2022  ║
+║    AZ-900                            Microsoft        2022  ║
+║    Digital Forensics Essentials      EC-Council       2023  ║
+║    Understanding Threats & Attacks   Splunk           2024  ║
+║    Introduction to CIP               OPSWAT           2024  ║
+║    Network Security Fundamentals     Palo Alto        2022  ║
+║    Ransomware                        CCN-CERT         2023  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
+
+## `> training --live`
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Nervi0Zz">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Nervi0Zz.png" alt="TryHackMe Badge" height="65"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Active_learner-00a8e8?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/user/nervi0zz0)
+
+</div>
+
+---
+
+## `> stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nervi0Zz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Nervi0Zz%20%2F%20GitHub"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nervi0Zz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nervi0Zz&theme=tokyonight&hide_border=true&border_radius=12" height="140"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nervi0Zz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+
+</div>
+
+---
+
+## `> activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nervi0Zz&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%"/>
+
+---
+
+## `> contact.sh`
+
+```bash
+$ cat contact.conf
+
+linkedin   →  linkedin.com/in/jmam84
+github     →  github.com/Nervi0Zz
+tryhackme  →  tryhackme.com/p/Nervi0Zz
+letsdefend →  app.letsdefend.io/user/nervi0zz0
+
+# Open to: interesting conversations, collabs, sec projects
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+*`// The best SIEM alert is the one you never stop questioning.`*
+
+</div>
