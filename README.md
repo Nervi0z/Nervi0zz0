@@ -1,190 +1,220 @@
-<div align="center">
-<!-- Banner animado superior -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0b0f19%26height%3D200%26section%3Dheader%26text%3DNervi0zz0%26fontSize%3D80%26fontColor%3D00ff99%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DCybersecurity%2520%26%2520Vulnerability%2520Specialist%26descAlignY%3D55%26descAlign%3D50"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0B1020,45:0E7490,100:58A6FF&text=NERVI0Z&fontSize=66&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20-%20Vulnerability%20Management%20-%20Detection%20-%20Remediation&descAlignY=60&descSize=18" alt="Nervi0z header"/>
+</p>
 
-<!-- Texto animado (Typing SVG) -->
+<p align="center">
+  <strong>Vulnerability Analyst @ Wise Security</strong><br>
+  Madrid, Spain · Defender-first · Attacker-aware
+</p>
 
-<a href="https://github.com/Nervi0zz0">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D00FF99%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DEspecialista%2Ben%2BVulnerabilidades+🐛;Blue+Teamer+%7C+Defensor+Digital+🛡️;Analista+de+Ciberseguridad+SOC+⚔️;Basado+en+Madrid,+España+🇪🇸" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jmam84/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/Nervi0z">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://app.letsdefend.io/user/nervi0zz0">
+    <img src="https://img.shields.io/badge/LetsDefend-0EA5E9?style=for-the-badge&logoColor=white" alt="LetsDefend"/>
+  </a>
+  <a href="https://www.securityblue.team/">
+    <img src="https://img.shields.io/badge/BTL1-Gold-F6C344?style=for-the-badge&logoColor=black" alt="BTL1 Gold"/>
+  </a>
+</p>
 
-<!-- Redes Sociales Modernas -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Exposure%20Validation-0B1020?style=flat-square&labelColor=111827&color=58A6FF" alt="Exposure Validation"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-0B1020?style=flat-square&labelColor=111827&color=0EA5E9" alt="Threat Detection"/>
+  <img src="https://img.shields.io/badge/Remediation-0B1020?style=flat-square&labelColor=111827&color=22C55E" alt="Remediation"/>
+  <img src="https://img.shields.io/badge/Blue%20Team%20Tooling-0B1020?style=flat-square&labelColor=111827&color=8B5CF6" alt="Blue Team Tooling"/>
+</p>
 
-<a href="https://www.linkedin.com/in/jmam84/"><img alt="LinkedIn" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"></a>
-<a href="https://nervi0zz0.github.io/"><img alt="Blog" src="https://www.google.com/search?q=https://img.shields.io/badge/Diario_de_un_Cojo-121013%3Fstyle%3Dfor-the-badge%26logo%3Dhashnode%26logoColor%3Dwhite"></a>
+---
 
+## `// operator surface`
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Vector</h3>
+      <p>
+        Focused on vulnerability analysis, exposure validation, remediation follow-up, and reducing attack surface with practical, operator-oriented thinking.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Background</h3>
+      <p>
+        SOC Analyst (2022–2025) → Vulnerability Analyst (2026–now). Detection, triage, incident response, then risk, prioritization, and remediation.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Build Mode</h3>
+      <p>
+        I build study guides, lightweight tooling, and blue-team resources designed to be useful in real operational workflows.
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
 
+## `// training telemetry`
 
-<!-- Contador de visitas discreto -->
+<table>
+  <tr>
+    <td width="55%" align="center" valign="middle">
+      <a href="https://tryhackme.com/p/Nervi0z">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Nervi0Zz.png" alt="TryHackMe badge"/>
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h3>Practice Signal</h3>
+      <p>
+        Public training platforms matter here because they show repetition, curiosity, and hands-on defensive practice — not just static credentials.
+      </p>
+      <p>
+        <strong>TryHackMe</strong><br>
+        Labs, paths, and continuous skill sharpening.
+      </p>
+      <p>
+        <strong>LetsDefend</strong><br>
+        SOC-style scenarios, alert analysis, and defensive workflow repetition.
+      </p>
+      <p>
+        <a href="https://tryhackme.com/p/Nervi0z">Open TryHackMe</a> ·
+        <a href="https://app.letsdefend.io/user/nervi0zz0">Open LetsDefend</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DNervi0zz0%26label%3DVistas%26color%3D00ff99%26style%3Dflat-square" alt="Vistas" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Validated Signal</h3>
+      <p>
+        <strong>BTL1 — Gold Coin</strong><br>
+        Defensive discipline, investigation mindset, and proof of practical training.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Current Direction</h3>
+      <p>
+        Prioritizing vulnerability management, exposure reduction, remediation tracking, and building cleaner operator-facing resources.
+      </p>
+    </td>
+  </tr>
+</table>
 
-👾 Operativa Actual
+---
 
-Atrás quedaron los días de solo mirar alertas. Desde enero de este año, mi enfoque principal es la Gestión, Análisis y Mitigación de Vulnerabilidades, buscando las brechas antes de que sean explotadas.
+## `// deployed assets`
 
-Mi background como Analista CSOC me da la perspectiva perfecta: entiendo cómo operan las amenazas reales (SIEM, EDR, Logs) y ahora aplico ese conocimiento para parchear y fortificar el ecosistema antes de que el atacante llegue. Disfruto automatizando defensas y analizando CVEs críticos.
+<p align="center">
+  <a href="https://github.com/Nervi0z/BTL1-Study-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Study-Guide&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="BTL1 Study Guide"/>
+  </a>
+  <a href="https://github.com/Nervi0z/ScanBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=ScanBot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="ScanBot"/>
+  </a>
+</p>
 
-🛠️ Arsenal Tecnológico
+<p align="center">
+  <a href="https://github.com/Nervi0z/Odisea-Analista-SOC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=Odisea-Analista-SOC&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Odisea Analista SOC"/>
+  </a>
+  <a href="https://github.com/Nervi0z/BTL1-Estudio-Guide-ESP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nervi0z&repo=BTL1-Estudio-Guide-ESP&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="BTL1 Estudio Guide ESP"/>
+  </a>
+</p>
 
-<div align="center">
+---
 
-Vulnerabilidades & Pentesting
+## `// operational stack`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,azure,linux,github,vscode&theme=dark" alt="Skill icons"/>
+</p>
 
+<table>
+  <tr>
+    <td width="22%" valign="top"><strong>SIEM / SOAR</strong></td>
+    <td>Microsoft Sentinel · Chronicle SOAR · AlienVault · Devo</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>EDR / XDR</strong></td>
+    <td>Microsoft Defender XDR · Bitdefender</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Cloud</strong></td>
+    <td>Azure Security · Defender for Cloud</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Network</strong></td>
+    <td>Palo Alto · Fortinet · Cisco IOS / ASA</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Phishing</strong></td>
+    <td>Proofpoint · KnowBe4 · Abnormal Security</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Scripting</strong></td>
+    <td>PowerShell · Python · Bash</td>
+  </tr>
+</table>
 
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nessus-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtenable%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-111111%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CVE_Analysis-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dbugcrowd%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" />
+## `// signal layer`
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nervi0z&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="48%" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=Nervi0z&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" width="48%" alt="GitHub streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nervi0z&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&custom_title=Operational%20Signal" width="100%" alt="GitHub activity graph"/>
+</p>
 
-
-
-
-Blue Team (SIEM, EDR & SOAR)
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Sentinel-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Chronicle_SOAR-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Defender_XDR-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Devo-00B2A9%3Fstyle%3Dfor-the-badge" />
-
-
-
-
-
-
-Networking, OS & Scripting
-
-
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PowerShell-5391FE%3Fstyle%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cisco-1199D2%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_Security-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" />
-
-</div>
-
-🚀 Proyectos Destacados
-
-<div align="center">
-<!-- Tarjetas dinámicas de GitHub en lugar de tablas HTML -->
-<a href="https://github.com/Nervi0zz0/ScanBot">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DNervi0zz0%26repo%3DScanBot%26theme%3Dtokyonight%26show_icons%3Dtrue" alt="ScanBot" width="48%" />
-</a>
-<a href="https://nervi0zz0.github.io/">
-<!-- Tarjeta simulada para el blog usando el widget genérico de repo si lo tienes, o una imagen estática elegante -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DNervi0zz0%26repo%3DNervi0zz0.github.io%26theme%3Dtokyonight%26show_icons%3Dtrue%26title_color%3D00ff99" alt="Blog Diario de un Cojo" width="48%" />
-</a>
-</div>
-
-📊 Telemetría y Estadísticas
-
-<div align="center">
-<!-- Trofeos de GitHub (Gamificación) -->
-<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DNervi0zz0%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" alt="Trofeos" />
-</a>
-
-
-
-
-
-<!-- Rachas y Estadísticas Generales -->
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNervi0zz0%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Racha de commits" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNervi0zz0%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Estadísticas" width="48%" />
-</div>
-
-💼 Background & Credenciales (Click para expandir)
+---
 
 <details>
-<summary><b>🛡️ Experiencia Profesional en CSOC</b></summary>
+  <summary><strong>// validated training</strong></summary>
+  <br>
 
-
-
-
-Analista de Ciberseguridad - SOC | Nivel 1 @ Wise Security (Madrid, España)
-(Dic. 2022 – Presente)
-
-Monitorización, análisis y validación de eventos/incidentes (SIEM, Sondas, EDR).
-
-Gestión de IOCs y Threat Hunting proactivo.
-
-Comunicación de vulnerabilidades relevantes (CVEs) y mitigación.
-
-Creación y mejora continua de SOPs y automatización de respuestas.
+- BTL1 — Gold Coin  
+- FortiGate 7.4 Operator  
+- CyberOps Associate  
+- SC-900  
+- AZ-900  
+- Digital Forensics Essentials  
+- Understanding Threats & Attacks  
+- Introduction to CIP  
+- Network Security Fundamentals  
+- Ransomware — CCN-CERT  
 
 </details>
 
-<details>
-<summary><b>📜 Certificaciones de Ciberseguridad</b></summary>
+---
 
+## `// contact vector`
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jmam84/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/Nervi0z">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://app.letsdefend.io/user/nervi0zz0">
+    <img src="https://img.shields.io/badge/LetsDefend-Profile-0EA5E9?style=flat-square&logoColor=white" alt="LetsDefend"/>
+  </a>
+</p>
 
+<p align="center">
+  <sub>Always learning. Never static.</sub>
+</p>
 
-Certificación
-
-Emisor
-
-Año
-
-Blue Team Level 1 (BTL1) (Gold Coin)
-
-Security Blue Team
-
-2024
-
-FortiGate 7.4 Operator
-
-Fortinet
-
-2024
-
-Security, Compliance, and Identity Fundamentals (SC-900)
-
-Microsoft
-
-2022
-
-CyberOps Associate
-
-Cisco
-
-2023
-
-Introduction to CIP
-
-OPSWAT Academy
-
-2024
-
-Digital Forensics Essentials
-
-EC-Council
-
-2023
-
-Ransomware
-
-CCN-CERT
-
-2023
-
-Understanding Threats and Attacks
-
-Splunk
-
-2024
-
-</details>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1020,45:0E7490,100:58A6FF" alt="footer"/>
+</p>
